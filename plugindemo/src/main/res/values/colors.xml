@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#FF555555</color>
+
+    <color name="transparent1">#00000000</color>
+    //3.2+
+    <color name="new_danblue">#4354fa</color>
+    <color name="new_huise">#828282</color>
+
+    <color name="new_white">#e6e6e6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#D5D5D5</color>
+    <color name="gray_two">#ABA0A7</color>
+    <color name="red">#FF0000</color>
+    <color name="bule">#0000FF</color>
+    <color name="newbule">#4a92d9</color>
+
+    <color name="newxianfengnanhu">#f36a4d</color>
+    <color name="newyellow2">#f99a62</color>
+    <color name="wxytextcolor">#333333</color>
+    <color name="wxytextcolor2">#666666</color>
+    <color name="newyellow">#FB6649</color>
+    <!-- 黄色 -->
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#00FF00</color>
+    <color name="shfw_left">#15fe83</color>
+    <color name="main_news_text">#FF555555</color>
+    <color name="search_button">#959595</color>
+
+    <color name="new_text_click">#4278ba</color>
+    <color name="new_text">#9ab8dc</color>
+    <color name="new_submitcolor">#99cbed</color>
+
+    <color name="llwz_left_item_bg">#FAAAA9</color>
+    <color name="blgl_left_item_bg">#51C5F5</color>
+    <!--<color name="sdxf_selected">#a4cdf6</color>-->
+    <!--<color name="sdxf_normal">#00000000</color>-->
+
+    <!--<color name="activity_bszn_item_selected">#D5D5D5</color>-->
+
+    <color name="jzbf_login_bg">#596ECD</color>
+
+    <color name="ldrk_left_month_selected">#b5b5b5</color>
+
+    <color name="esjy_top_bg">#af7625</color>
+
+
+    <color name="item_selected">#a4cdf6</color>
+    <color name="item_normal">#00000000</color>
+
+    <color name="onekey_text_selected_color">#29bdfc</color>
+
+    <color name="qtfw_detial_selected_color">#da6e71</color>
+    <color name="qtfw_detial_unselected_color">#00000000</color>
+    <color name="cyan">#9DEEB4</color>
+    <color name="colorhui">#88000000</color>
+
+    <color name="colortest">#FFFFE0</color>
+    <color name="hzh_sbx_bg">#ff5757</color>
+    <color name="hzh_sbx_big_bg">#E5F2F9</color>
+    <color name="hzh_zhibu_list_item_click">#FF5757</color>
+    <color name="hzh_zhibu_list_item_notclick">#FFD5D6</color>
+    <color name="nxl_jiedao_item_click">#C6E4FE</color>
+    <color name="nxl_jiedao_item_notclick">#D9F7F5</color>
+</resources>
